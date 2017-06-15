@@ -1,0 +1,1 @@
+java -jar device/target/device-0.1.0-SNAPSHOT.jar run org.limmen.mqtt.device.Server -conf config.json -instances 50

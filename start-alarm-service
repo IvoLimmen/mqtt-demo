@@ -1,0 +1,1 @@
+java -jar alert-service/target/alert-service-0.1.0-SNAPSHOT.jar run org.limmen.mqtt.alert.service.Server -conf config.json

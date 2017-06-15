@@ -1,0 +1,1 @@
+java -jar domain-service/target/domain-service-0.1.0-SNAPSHOT.jar run org.limmen.mqtt.domain.service.DomainService -conf config.json

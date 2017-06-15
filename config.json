@@ -1,0 +1,7 @@
+{
+    "mqqt.port": 1883,
+    "mqqt.host": "localhost",
+    "device.temperature.interval.seconds": 5,
+    "device.humidity.interval.seconds": 5,
+    "mqtt.maxinflight": 1000    
+}
